@@ -2,7 +2,9 @@
 
 ## Funktion
 
-1. Problem: 2 Fälle
+Der Turnierveranstalter kann Teams bzw. Spieler eintragen, die ihm von den Teilnehmern zugesendet worden sind und daraus wird die Turnieraufstellung generiert.
+
+1. Problem: 2 Fälle,
 
    Tragen sich Spieler über die Applikation selbstständig ein oder müssen die sich erst beim Veranstalter melden der dann die Aufstellung festlegt.
 
