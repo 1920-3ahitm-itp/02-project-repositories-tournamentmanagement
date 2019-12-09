@@ -1,4 +1,4 @@
-### Turnierverwaltung
+# Turnierverwaltung
 
 ------
 
@@ -8,7 +8,7 @@
 
 1. Fall scheint praktischer zu sein deshalb gehen wir mal davon aus.
 
-#### Aus der Sicht von
+## Aus der Sicht von
 
 1) Veranstalter
 
