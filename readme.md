@@ -1,6 +1,6 @@
 # Turnierverwaltung
 
-------
+## Funktion
 
 1. Problem: 2 Fälle
 
