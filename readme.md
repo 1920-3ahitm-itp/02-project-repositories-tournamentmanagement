@@ -1,16 +1,14 @@
-# Turnierverwaltung
+### Turnierverwaltung
 
-## Funktion
+------
 
-Der Turnierveranstalter kann Teams bzw. Spieler eintragen, die ihm von den Teilnehmern zugesendet worden sind und daraus wird die Turnieraufstellung generiert.
-
-1. Problem: 2 Fälle,
+1. Problem: 2 Fälle
 
    Tragen sich Spieler über die Applikation selbstständig ein oder müssen die sich erst beim Veranstalter melden der dann die Aufstellung festlegt.
 
 1. Fall scheint praktischer zu sein deshalb gehen wir mal davon aus.
 
-## Aus der Sicht von
+#### Aus der Sicht von
 
 1) Veranstalter
 
@@ -22,3 +20,6 @@ Teilnehmer (Team) tragen sich über die Applikation ein und werden mit einem and
 
 Wenn die Ergebnisse der 1. Runde festgestellt wurden, können die manuell in die Verwaltung eingetragen werden, das System gibt dann automatisch den Gewinner aus und legt diesen gleich für die 2. Runde als Teilnehmer fest.
 
+Use-Case Diagramm:
+
+![image](C:\Users\silvi\OneDrive\Desktop\School_stuff\3AHITM\ITP_StuetzReder\image.png)
