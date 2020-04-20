@@ -24,3 +24,7 @@ Es soll ein Programm entwickelt werden, mit welchem man Turniere mittels einer B
 
 ### 3. Problemstellung
 
+Anmeldung ist nur unflexibel und statisch möglich.
+
+Komplizierte Team Zusammenstellung durch Auswahlverfahren.
+
