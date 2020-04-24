@@ -1,4 +1,4 @@
-package main.java.at.htl.project.view;
+package at.htl.turnier.view;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

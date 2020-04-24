@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../turnierverwaltung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../turnierverwaltung.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,20 +79,64 @@
       <option name="presentableId" value="Default" />
       <updated>1587720271985</updated>
       <workItem from="1587720274018" duration="97000" />
+      <workItem from="1587720406117" duration="386000" />
     </task>
+    <task id="LOCAL-00001" summary="transfer in new repo">
+      <created>1587720450872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587720450872</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add gh-page link">
+      <created>1587720654947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587720654948</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add execute flag to script">
+      <created>1587720783278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587720783278</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="transfer in new repo" />
+    <MESSAGE value="add gh-page link" />
+    <MESSAGE value="add execute flag to script" />
+    <option name="LAST_COMMIT_MESSAGE" value="add execute flag to script" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1016" y="439" key="SettingsEditor" timestamp="1587720365210">
+    <state x="1016" y="439" key="SettingsEditor" timestamp="1587720424781">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1016" y="439" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587720365210" />
-    <state x="1304" y="754" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587720326059">
+    <state x="1016" y="439" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587720424781" />
+    <state x="1128" y="598" key="Vcs.Push.Dialog.v2" timestamp="1587720802790">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1304" y="754" key="git4idea.remote.GitConfigureRemotesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1587720326059" />
+    <state x="1128" y="598" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1587720802790" />
+    <state x="1304" y="754" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587720501596">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1304" y="754" key="git4idea.remote.GitConfigureRemotesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1587720501596" />
   </component>
 </project>
