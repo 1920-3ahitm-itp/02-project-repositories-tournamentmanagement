@@ -9,17 +9,18 @@ Jakob Ratzenböck, Adrian Moser, Silvio Kalinke
 
 
 == 2. Ausgangssituation
-
+Um ein Turnier so einfach wie möglich zu veranstalten/organisieren wird ein Verwaltungssystem dafür entwickelt.
 
 
 
 == 3. Istzustand
-----
-Beschreibung der speziellen Situation zB in der Abteilung
-----
+Im Moment sind nur Interessenten bekannt die noch nicht fix eingeschrieben/angemeldet sind.
+
+Es soll ein Programm entwickelt werden, mit welchem man Turniere mittels einer Benutzerfreundlichen grafischen Oberfläche Turniere erstellen bzw. verwalten kann.
 
 
 == 4. Problemstellung
+Für eine leichtere und angenehmere Verwaltung von Turnieren soll ein Programm erstellt werden, wo sich die Teilnehmer selbst eintragen können, die an dem Turnier interessiert sind.
 
 
 == 5. Aufgabenstellung
