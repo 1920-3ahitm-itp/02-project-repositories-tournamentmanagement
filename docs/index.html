@@ -458,7 +458,11 @@ pre.rouge .hll * {
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
-<li><a href="#_1_cld">1. 1. CLD</a></li>
+<li><a href="#_1_cld">1. 1. CLD</a>
+<ul class="sectlevel2">
+<li><a href="#_beispiel">1.1. Beispiel</a></li>
+</ul>
+</li>
 <li><a href="#_2_ausgangssituation">2. 2. Ausgangssituation</a></li>
 <li><a href="#_3_istzustand">3. 3. Istzustand</a></li>
 <li><a href="#_4_problemstellung">4. 4. Problemstellung</a></li>
@@ -486,7 +490,115 @@ pre.rouge .hll * {
 <div class="sect1">
 <h2 id="_1_cld"><a class="anchor" href="#_1_cld"></a>1. 1. CLD</h2>
 <div class="sectionbody">
-
+<div class="imageblock">
+<div class="content">
+<img src="images/CLD.png" alt="CLD" width="258" height="536">
+</div>
+</div>
+<div class="paragraph">
+<p>Phase &#8230;&#8203; Gruppenphase, k.o.-Runde, Achtel-, Viertel-, Halbfinale</p>
+</div>
+<div class="sect2">
+<h3 id="_beispiel"><a class="anchor" href="#_beispiel"></a>1.1. Beispiel</h3>
+<div class="sect3">
+<h4 id="_struktur"><a class="anchor" href="#_struktur"></a>1.1.1. Struktur</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>Turnier: Fussballturnier Schulschluss 2020</p>
+</li>
+<li>
+<p>Phasen:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Gruppenphase &#8594; Order=1</p>
+</li>
+<li>
+<p>Viertelfinale &#8594; Order=2</p>
+</li>
+<li>
+<p>Halbfinale &#8594; Order=3</p>
+</li>
+<li>
+<p>Finale&#8594; Order=4</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Teams</p>
+<div class="ulist">
+<ul>
+<li>
+<p>3ahitm</p>
+</li>
+<li>
+<p>1afel</p>
+</li>
+<li>
+<p>3ahif</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_ablauf"><a class="anchor" href="#_ablauf"></a>1.1.2. Ablauf</h4>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Erstellen eines Turniers</p>
+</li>
+<li>
+<p>Teams melden sich zu einem Turnier (zB Webseite)</p>
+</li>
+<li>
+<p>Abhängig von der Anzahl werden Turnierphasen erstellt.</p>
+</li>
+<li>
+<p>Auslosung der Teams in Phasen</p>
+</li>
+<li>
+<p>Eintragen der Spielergebnisse</p>
+</li>
+<li>
+<p>Aufstieg in die nächste Runde (Turnierphase)</p>
+</li>
+<li>
+<p>Eintragen der Spielergebnisse</p>
+</li>
+<li>
+<p>&#8230;&#8203;</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_programmierablauf"><a class="anchor" href="#_programmierablauf"></a>1.1.3. Programmierablauf</h4>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Zuerst Tabellen mit SQL-CREATE erstellen</p>
+</li>
+<li>
+<p>Dann die Teams mit INSERT einfügen</p>
+</li>
+<li>
+<p>Dann die Java-Repositories für die Tabellen erstellen.</p>
+</li>
+<li>
+<p>Dann mit Unit-Tests das Turnier simulieren.</p>
+</li>
+<li>
+<p>Wenn die Business Logik in Java funktioniert, wird erst mit JavaFX begonnen.</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div class="sect1">
@@ -494,6 +606,9 @@ pre.rouge .hll * {
 <div class="sectionbody">
 <div class="paragraph">
 <p>Um ein Turnier so einfach wie möglich zu veranstalten/organisieren wird ein Verwaltungssystem dafür entwickelt.</p>
+</div>
+<div class="paragraph">
+<p>vgl <a href="https://github.com/htl-leonding/2016_TuV3r" class="bare">https://github.com/htl-leonding/2016_TuV3r</a></p>
 </div>
 </div>
 </div>
@@ -573,7 +688,7 @@ pre.rouge .hll * {
 <div id="footer">
 <div id="footer-text">
 Version 1.0.1<br>
-Last updated 2020-04-25 14:16:33 UTC
+Last updated 2020-04-25 14:50:24 UTC
 </div>
 </div>
 </body>
