@@ -1,45 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/development/alex/spring/restapp" value="PREVIEW" />
+      </map>
+    </option>
   </component>
-  <component name="ChangeListManager">
-    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../school/Repository/src/main/java/htl/ac/at/repository/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../school/livecoding_01/src/main/java/at/htl/jdbcrimer/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../school/livecoding_01/src/test/java/at/htl/jdbcrimer/model/JdbcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../temperature-jdbc-lambda/src/main/java/at/htl/temperature/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1ayuhBHw59FxnF6UiodZI0kezNR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.20466596" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -50,6 +24,9 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -73,88 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="" />
-      <created>1587720271985</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1587720271985</updated>
-      <workItem from="1587720274018" duration="97000" />
-      <workItem from="1587720406117" duration="386000" />
-      <workItem from="1587756591476" duration="22000" />
-      <workItem from="1587756664512" duration="14000" />
-    </task>
-    <task id="LOCAL-00001" summary="transfer in new repo">
-      <created>1587720450872</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1587720450872</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add gh-page link">
-      <created>1587720654947</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1587720654948</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add execute flag to script">
-      <created>1587720783278</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1587720783278</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="transfer in new repo" />
-    <MESSAGE value="add gh-page link" />
-    <MESSAGE value="add execute flag to script" />
-    <option name="LAST_COMMIT_MESSAGE" value="add execute flag to script" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1016" y="439" key="SettingsEditor" timestamp="1587720424781">
-      <screen x="0" y="23" width="2560" height="1417" />
-    </state>
-    <state x="1016" y="439" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587720424781" />
-    <state x="1128" y="598" key="Vcs.Push.Dialog.v2" timestamp="1587720802790">
-      <screen x="0" y="23" width="2560" height="1417" />
-    </state>
-    <state x="1128" y="598" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1587720802790" />
-    <state x="1304" y="754" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587720501596">
-      <screen x="0" y="23" width="2560" height="1417" />
-    </state>
-    <state x="1304" y="754" key="git4idea.remote.GitConfigureRemotesDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1587720501596" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
 </project>
