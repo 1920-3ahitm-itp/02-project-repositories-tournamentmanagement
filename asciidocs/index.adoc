@@ -7,10 +7,76 @@ Jakob Ratzenböck, Adrian Moser, Silvio Kalinke
 
 == 1. CLD
 
+[plantuml,CLD,png]
+----
+@startuml
+class Tournament {
+  id: int
+}
+class Match {
+  id: int
+  team1: Team
+  team2: Team
+  description: String
+}
+class Team {
+  id: int
+  tournament: Tournament
+}
+class Phase{
+  id: int
+  order: int
+  tournament: Tournament
+}
+
+Match <-- Team
+Match <-- Team
+Phase <-- Match
+Tournament <-- Phase
+Tournament <-- Team : Anmeldung
+@enduml
+----
+
+Phase ... Gruppenphase, k.o.-Runde, Achtel-, Viertel-, Halbfinale
+
+=== Beispiel
+
+==== Struktur
+
+* Turnier: Fussballturnier Schulschluss 2020
+* Phasen:
+** Gruppenphase -> Order=1
+** Viertelfinale -> Order=2
+** Halbfinale -> Order=3
+** Finale-> Order=4
+* Teams
+** 3ahitm
+** 1afel
+** 3ahif
+
+==== Ablauf
+
+. Erstellen eines Turniers
+. Teams melden sich zu einem Turnier (zB Webseite)
+. Abhängig von der Anzahl werden Turnierphasen erstellt.
+. Auslosung der Teams in Phasen
+. Eintragen der Spielergebnisse
+. Aufstieg in die nächste Runde (Turnierphase)
+. Eintragen der Spielergebnisse
+. ...
+
+==== Programmierablauf
+
+. Zuerst Tabellen mit SQL-CREATE erstellen
+. Dann die Teams mit INSERT einfügen
+. Dann die Java-Repositories für die Tabellen erstellen.
+. Dann mit Unit-Tests das Turnier simulieren.
+. Wenn die Business Logik in Java funktioniert, wird erst mit JavaFX begonnen.
 
 == 2. Ausgangssituation
 Um ein Turnier so einfach wie möglich zu veranstalten/organisieren wird ein Verwaltungssystem dafür entwickelt.
 
+vgl https://github.com/htl-leonding/2016_TuV3r
 
 
 == 3. Istzustand
@@ -40,7 +106,7 @@ Superclass:  | { "java.lang.Object " | [Browse...] }
 === 5.2 Nichtfunktionale Anforderungen (NFA)
 
 
-== 6. Zielsetzng
+== 6. Zielsetzung
 
 
 == 7. Mengengerüst

@@ -9,5 +9,5 @@ module at.htl.turnier {
     opens at.htl.turnier.view to javafx.fxml;
     exports at.htl.turnier.view;
     exports at.htl.turnier.controller;
-    exports at.htl.turnier.model;
+    //exports at.htl.turnier.model;
 }
