@@ -19,14 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3acd734f-21e8-48ba-9e58-952198748416" name="Default Changelist" comment="">
+    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="Database filled with informations">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_14_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_14_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_14_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_14_0_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/asciidocs/index.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/asciidocs/index.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/gantt-protoype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/wireframe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turnierverwaltung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turnierverwaltung.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +38,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b2I2gsjHJjh0p6FXmdvJumR9cc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="derby" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -58,9 +63,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.htl.turnier.view.Main" />
@@ -98,6 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -109,12 +120,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3acd734f-21e8-48ba-9e58-952198748416" name="Default Changelist" comment="" />
+      <changelist id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="" />
       <created>1587823555918</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587823555918</updated>
       <workItem from="1587823558090" duration="2646000" />
+      <workItem from="1588923428447" duration="126000" />
+      <workItem from="1589191704071" duration="1055000" />
+      <workItem from="1589192805391" duration="7011000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -139,39 +153,59 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renewed .idea-project-config" />
-    <option name="LAST_COMMIT_MESSAGE" value="renewed .idea-project-config" />
+    <MESSAGE value="Database filled with informations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database filled with informations" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589195598428">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1589195598428" />
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser" timestamp="1587823873407">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
-    <state width="1429" height="276" key="GridCell.Tab.0.bottom" timestamp="1587824192837">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589202324371">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589202324371" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1588923553630">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1588923553630" />
+    <state width="907" height="211" key="GridCell.Tab.0.bottom" timestamp="1589202324653">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="907" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589202324653" />
     <state width="1429" height="276" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192837" />
-    <state width="1429" height="276" key="GridCell.Tab.0.center" timestamp="1587824192834">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="907" height="211" key="GridCell.Tab.0.center" timestamp="1589202324653">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589202324653" />
     <state width="1429" height="276" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192834" />
-    <state width="1429" height="276" key="GridCell.Tab.0.left" timestamp="1587824192832">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="907" height="211" key="GridCell.Tab.0.left" timestamp="1589202324653">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589202324653" />
     <state width="1429" height="276" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192832" />
-    <state width="1429" height="276" key="GridCell.Tab.0.right" timestamp="1587824192835">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state width="907" height="211" key="GridCell.Tab.0.right" timestamp="1589202324653">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589202324653" />
     <state width="1429" height="276" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192835" />
-    <state x="843" y="228" key="SettingsEditor" timestamp="1587823649687">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="223" y="109" key="SettingsEditor" timestamp="1589192931818">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="223" y="109" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1589192931818" />
     <state x="843" y="228" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587823649687" />
-    <state x="955" y="387" key="Vcs.Push.Dialog.v2" timestamp="1587823694864">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="510" y="224" key="Vcs.Push.Dialog.v2" timestamp="1589202485793">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="510" y="224" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1589202485793" />
     <state x="955" y="387" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1587823694864" />
   </component>
 </project>

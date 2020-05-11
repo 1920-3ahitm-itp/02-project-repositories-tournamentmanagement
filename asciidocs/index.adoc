@@ -12,6 +12,11 @@ Jakob Ratzenböck, Adrian Moser, Silvio Kalinke
 @startuml
 class Tournament {
   id: int
+  name: String
+  pointsWin: int
+  pointsDraw: int
+  groupSize: int
+
 }
 class Match {
   id: int
