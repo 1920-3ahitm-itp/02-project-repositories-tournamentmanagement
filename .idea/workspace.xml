@@ -19,9 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="create table sql statements added">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/drop-tables.sql" afterDir="false" />
+    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sql/insert-statements.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/DatasourceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/main/java/at/htl/turnier/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/main/java/at/htl/turnier/view/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/main/resources/at/htl/turnier/view/sample.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +141,7 @@
       <workItem from="1588923428447" duration="126000" />
       <workItem from="1589191704071" duration="1055000" />
       <workItem from="1589192805391" duration="11979000" />
-      <workItem from="1589461611504" duration="1426000" />
+      <workItem from="1589461611504" duration="2239000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -158,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589478940530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="drop table sql statements added">
+      <created>1589478994885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589478994885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,13 +193,14 @@
     <MESSAGE value="renewed .idea-project-config" />
     <MESSAGE value="Database filled with informations" />
     <MESSAGE value="create table sql statements added" />
-    <option name="LAST_COMMIT_MESSAGE" value="create table sql statements added" />
+    <MESSAGE value="drop table sql statements added" />
+    <option name="LAST_COMMIT_MESSAGE" value="drop table sql statements added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="109" y="272" key="#SQL_Dialects" timestamp="1589478971222">
+    <state x="109" y="272" key="#SQL_Dialects" timestamp="1589479028176">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="109" y="272" key="#SQL_Dialects/0.0.1368.872@0.0.1368.872" timestamp="1589478971222" />
+    <state x="109" y="272" key="#SQL_Dialects/0.0.1368.872@0.0.1368.872" timestamp="1589479028176" />
     <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589195598428">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -195,10 +209,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
-    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589478953320">
+    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589478994007">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589478953320" />
+    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589478994007" />
     <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589462203581">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

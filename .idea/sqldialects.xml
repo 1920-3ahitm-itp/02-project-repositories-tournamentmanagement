@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/sql/create-tables.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/sql/drop-tables.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/insert-statements.sql" dialect="GenericSQL" />
   </component>
 </project>
