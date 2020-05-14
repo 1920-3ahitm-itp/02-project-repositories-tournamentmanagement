@@ -27,5 +27,4 @@ create table "Team" (
     pointsOverall int,
     name varchar(50),
     CONSTRAINT pk_TeamId PRIMARY KEY (id)
-
 );
