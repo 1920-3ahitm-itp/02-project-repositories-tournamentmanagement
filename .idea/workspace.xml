@@ -19,23 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_analysis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_commons_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_tree_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_util_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_script_interpreter_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_2_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/create-tables.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turnierverwaltung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turnierverwaltung.iml" afterDir="false" />
+    <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="create table sql statements added">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/drop-tables.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +135,7 @@
       <workItem from="1588923428447" duration="126000" />
       <workItem from="1589191704071" duration="1055000" />
       <workItem from="1589192805391" duration="11979000" />
-      <workItem from="1589461611504" duration="1373000" />
+      <workItem from="1589461611504" duration="1426000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -165,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589202498068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create table sql statements added">
+      <created>1589478940530</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589478940530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,13 +179,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renewed .idea-project-config" />
     <MESSAGE value="Database filled with informations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database filled with informations" />
+    <MESSAGE value="create table sql statements added" />
+    <option name="LAST_COMMIT_MESSAGE" value="create table sql statements added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="109" y="272" key="#SQL_Dialects" timestamp="1589478917224">
+    <state x="109" y="272" key="#SQL_Dialects" timestamp="1589478971222">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="109" y="272" key="#SQL_Dialects/0.0.1368.872@0.0.1368.872" timestamp="1589478917224" />
+    <state x="109" y="272" key="#SQL_Dialects/0.0.1368.872@0.0.1368.872" timestamp="1589478971222" />
     <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589195598428">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -201,10 +195,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
-    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589202495286">
+    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589478953320">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589202495286" />
+    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589478953320" />
     <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589462203581">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
