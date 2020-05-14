@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +53,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../School_stuff/3AHITM/SEW/IdeaProjects/assignment-20-stock-market-kalinkesilvio" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.20466596" />
+    <property name="project.structure.side.proportion" value="0.36469343" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
@@ -135,7 +135,7 @@
       <workItem from="1588923428447" duration="126000" />
       <workItem from="1589191704071" duration="1055000" />
       <workItem from="1589192805391" duration="11979000" />
-      <workItem from="1589461611504" duration="2548000" />
+      <workItem from="1589461611504" duration="4886000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589479823020</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="mybatis added to pom">
+      <created>1589480335949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589480335950</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +203,8 @@
     <MESSAGE value="create table sql statements added" />
     <MESSAGE value="drop table sql statements added" />
     <MESSAGE value="DatasourceFactory added" />
-    <option name="LAST_COMMIT_MESSAGE" value="DatasourceFactory added" />
+    <MESSAGE value="mybatis added to pom" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis added to pom" />
   </component>
   <component name="WindowStateProjectService">
     <state x="109" y="272" key="#SQL_Dialects" timestamp="1589479028176">
@@ -211,14 +219,14 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
-    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589479822043">
+    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589480335160">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589479822043" />
-    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589479988648">
+    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589480335160" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589480643054">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589479988648" />
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589480643054" />
     <state width="907" height="211" key="GridCell.Tab.0.bottom" timestamp="1589206511933">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -239,19 +247,23 @@
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
     <state width="1429" height="276" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192835" />
-    <state x="215" y="91" key="Maven.ArtifactSearchDialog" timestamp="1589206890474">
+    <state x="215" y="91" key="Maven.ArtifactSearchDialog" timestamp="1589482004821">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="215" y="91" key="Maven.ArtifactSearchDialog/0.0.1368.872@0.0.1368.872" timestamp="1589206890474" />
-    <state x="223" y="23" key="SettingsEditor" timestamp="1589479990791">
+    <state x="215" y="91" key="Maven.ArtifactSearchDialog/0.0.1368.872@0.0.1368.872" timestamp="1589482004821" />
+    <state x="223" y="23" width="1126" height="849" key="SettingsEditor" timestamp="1589480666179">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="223" y="23" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1589479990791" />
+    <state x="223" y="23" width="1126" height="849" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1589480666179" />
     <state x="843" y="228" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587823649687" />
-    <state x="510" y="224" key="Vcs.Push.Dialog.v2" timestamp="1589202507150">
+    <state x="510" y="224" key="Vcs.Push.Dialog.v2" timestamp="1589482223825">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="510" y="224" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1589202507150" />
+    <state x="510" y="224" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1589482223825" />
     <state x="955" y="387" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1587823694864" />
+    <state x="689" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1589480409094">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="689" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1589480409094" />
   </component>
 </project>
