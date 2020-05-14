@@ -31,5 +31,17 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.6.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.15.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven.shared:maven-script-interpreter:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven:maven-plugin-api:2.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy:1.8.3" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-commons:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-util:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-analysis:3.2" level="project" />
+    <orderEntry type="library" name="Maven: asm:asm-tree:3.2" level="project" />
+    <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.ant:ant:1.8.1" level="project" />
   </component>
 </module>
