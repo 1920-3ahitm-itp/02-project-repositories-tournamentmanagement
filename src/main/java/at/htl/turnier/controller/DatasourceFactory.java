@@ -2,6 +2,8 @@ package at.htl.turnier.controller;
 
 import org.apache.derby.jdbc.ClientDataSource;
 
+import javax.sql.DataSource;
+
 public class DatasourceFactory {
 
     static final String username = "app";
