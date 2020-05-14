@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/insert-statements.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/DatasourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/main/java/at/htl/turnier/controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/main/java/at/htl/turnier/view/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/main/resources/at/htl/turnier/view/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +56,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20466596" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -141,7 +135,7 @@
       <workItem from="1588923428447" duration="126000" />
       <workItem from="1589191704071" duration="1055000" />
       <workItem from="1589192805391" duration="11979000" />
-      <workItem from="1589461611504" duration="2239000" />
+      <workItem from="1589461611504" duration="2548000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -171,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589478994885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DatasourceFactory added">
+      <created>1589479823020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589479823020</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +195,8 @@
     <MESSAGE value="Database filled with informations" />
     <MESSAGE value="create table sql statements added" />
     <MESSAGE value="drop table sql statements added" />
-    <option name="LAST_COMMIT_MESSAGE" value="drop table sql statements added" />
+    <MESSAGE value="DatasourceFactory added" />
+    <option name="LAST_COMMIT_MESSAGE" value="DatasourceFactory added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="109" y="272" key="#SQL_Dialects" timestamp="1589479028176">
@@ -209,14 +211,14 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
-    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589478994007">
+    <state x="117" y="0" key="CommitChangelistDialog2" timestamp="1589479822043">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589478994007" />
-    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589462203581">
+    <state x="117" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589479822043" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589479988648">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589462203581" />
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589479988648" />
     <state width="907" height="211" key="GridCell.Tab.0.bottom" timestamp="1589206511933">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -241,10 +243,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="215" y="91" key="Maven.ArtifactSearchDialog/0.0.1368.872@0.0.1368.872" timestamp="1589206890474" />
-    <state x="223" y="23" key="SettingsEditor" timestamp="1589206956927">
+    <state x="223" y="23" key="SettingsEditor" timestamp="1589479990791">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="223" y="23" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1589206956927" />
+    <state x="223" y="23" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1589479990791" />
     <state x="843" y="228" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587823649687" />
     <state x="510" y="224" key="Vcs.Push.Dialog.v2" timestamp="1589202507150">
       <screen x="0" y="0" width="1368" height="872" />
