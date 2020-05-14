@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/script-files.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db/seg0/c161.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c161.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db/seg0/c171.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c171.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c20.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c31.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c51.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c90.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +43,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b2I2gsjHJjh0p6FXmdvJumR9cc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="derby" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -223,6 +230,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="renewed .idea-project-config" />
     <MESSAGE value="Database filled with informations" />
     <MESSAGE value="create table sql statements added" />
@@ -254,29 +262,29 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589480643054" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1589485755970">
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1589485961237">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485755970" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485961237" />
     <state width="1429" height="276" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192837" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1589485755970">
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1589485961237">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485755970" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485961237" />
     <state width="1429" height="276" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192834" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1589485755970">
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1589485961237">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485755970" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485961237" />
     <state width="1429" height="276" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192832" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1589485755970">
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1589485961237">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485755970" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589485961237" />
     <state width="1429" height="276" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192835" />
     <state x="215" y="91" key="Maven.ArtifactSearchDialog" timestamp="1589482004821">
       <screen x="0" y="0" width="1368" height="872" />
