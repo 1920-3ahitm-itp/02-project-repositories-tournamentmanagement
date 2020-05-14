@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/DatasourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/DatasourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/turnier/database/SqlRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/database/SqlRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turnierverwaltung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turnierverwaltung.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +67,7 @@
       <recent name="C:\Users\silvi\OneDrive\Desktop\02-project-repositories-tournamentmanagement\src\main\java\at\htl\turnier\database" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SqlRunner">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -139,8 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SqlRunner" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SqlRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -258,25 +254,29 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589480643054" />
-    <state width="907" height="211" key="GridCell.Tab.0.bottom" timestamp="1589206511933">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1589484534170">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589484534170" />
     <state width="1429" height="276" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192837" />
-    <state width="907" height="211" key="GridCell.Tab.0.center" timestamp="1589206511933">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1589484534170">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589484534170" />
     <state width="1429" height="276" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192834" />
-    <state width="907" height="211" key="GridCell.Tab.0.left" timestamp="1589206511933">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1589484534170">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589484534170" />
     <state width="1429" height="276" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192832" />
-    <state width="907" height="211" key="GridCell.Tab.0.right" timestamp="1589206511933">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1589484534170">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="907" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1589206511933" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589484534170" />
     <state width="1429" height="276" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192835" />
     <state x="215" y="91" key="Maven.ArtifactSearchDialog" timestamp="1589482004821">
       <screen x="0" y="0" width="1368" height="872" />
