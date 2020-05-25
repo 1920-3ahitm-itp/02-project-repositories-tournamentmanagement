@@ -1,7 +1,7 @@
-Mon May 25 16:04:03 CEST 2020 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
+Mon May 25 16:08:47 CEST 2020 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
 ----------------------------------------------------------------
-Mon May 25 16:04:23 CEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0172-4c25-c4eb-00001f6b97f0 
+Mon May 25 16:09:40 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0172-4c2a-1c93-00001f68af18 
 on database directory /Users/stuetz/_delete/3ahitm-syp/02-project-repositories-tournamentmanagement/db/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
 Loaded from file:/opt/db-derby-10.15.2.0-bin/lib/derby.jar
 java.vendor=AdoptOpenJDK
