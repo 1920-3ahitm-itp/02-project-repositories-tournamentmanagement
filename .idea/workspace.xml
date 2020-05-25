@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="model classes added">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_05_2020_21_57_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_05_2020_21_57__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/turnier/model/Phase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/model/Phase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/db/derby.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36469343" />
@@ -162,6 +160,7 @@
       <workItem from="1589814606646" duration="973000" />
       <workItem from="1590347359270" duration="858000" />
       <workItem from="1590401972841" duration="3508000" />
+      <workItem from="1590415248348" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -212,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589482559443</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add db to .gitignore">
+      <created>1590415389166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590415389166</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +245,8 @@
     <MESSAGE value="mybatis added to pom" />
     <MESSAGE value="database folder added" />
     <MESSAGE value="model classes added" />
-    <option name="LAST_COMMIT_MESSAGE" value="model classes added" />
+    <MESSAGE value="add db to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add db to .gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="554" y="273" key="#Notifications" timestamp="1589803661109">
@@ -250,10 +257,11 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="109" y="272" key="#SQL_Dialects/0.0.1368.872@0.0.1368.872" timestamp="1589479028176" />
-    <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589486431912">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="518" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590415465655">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1589486431912" />
+    <state x="518" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1590415465655" />
     <state x="429" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590348050568">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -317,11 +325,11 @@
     <state x="223" y="23" width="1126" height="849" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1589480666179" />
     <state x="2233" y="27" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589483845523" />
     <state x="843" y="228" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587823649687" />
-    <state x="510" y="224" key="Vcs.Push.Dialog.v2" timestamp="1589803781504">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="955" y="387" key="Vcs.Push.Dialog.v2" timestamp="1590415394510">
+      <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="510" y="224" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1589803781504" />
-    <state x="955" y="387" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1587823694864" />
+    <state x="955" y="387" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1590415394510" />
     <state x="93" y="93" width="1181" height="685" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589803673913">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

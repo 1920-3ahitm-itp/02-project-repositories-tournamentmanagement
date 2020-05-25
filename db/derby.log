@@ -1,14 +1,14 @@
-Mon May 18 12:45:36 CEST 2020 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+Mon May 25 16:04:03 CEST 2020 : Apache Derby Network Server - 10.15.2.0 - (1873585) started and ready to accept connections on port 1527
 ----------------------------------------------------------------
-Mon May 18 12:45:40 CEST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-2763-906a-000006dab8e0 
-on database directory C:\Users\silvi\OneDrive\Desktop\02-project-repositories-tournamentmanagement\db\db with class loader sun.misc.Launcher$AppClassLoader@610455d6 
-Loaded from file:/C:/opt/db-derby-10.14.2.0-bin/lib/derby.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_191-b12
-user.dir=C:\Users\silvi\OneDrive\Desktop\02-project-repositories-tournamentmanagement\db
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
+Mon May 25 16:04:23 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0172-4c25-c4eb-00001f6b97f0 
+on database directory /Users/stuetz/_delete/3ahitm-syp/02-project-repositories-tournamentmanagement/db/db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/opt/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=14.0.1+7
+user.dir=/Users/stuetz/_delete/3ahitm-syp/02-project-repositories-tournamentmanagement/db
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
