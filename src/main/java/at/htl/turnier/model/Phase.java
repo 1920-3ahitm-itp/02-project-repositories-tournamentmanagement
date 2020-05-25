@@ -4,11 +4,21 @@ public class Phase {
 
     private Long id;
     private int order;
+    private Tournament tournament;
 
     public Phase () {}
 
-    public Phase(int order) {
+    public Phase(int order, Tournament tournament) {
         this.order = order;
+        this.tournament = tournament;
+    }
+
+    public Tournament getTournament() {
+        return tournament;
+    }
+
+    public void setTournament(Tournament tournament) {
+        this.tournament = tournament;
     }
 
     public Long getId() {

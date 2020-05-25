@@ -20,22 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ee871fa-8165-4ec3-8749-5849642fca67" name="Default Changelist" comment="model classes added">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/02bf7bb2-af0f-4e08-8391-2381e5a4cb20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/02bf7bb2-af0f-4e08-8391-2381e5a4cb20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_05_2020_21_57_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_05_2020_21_57__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/db.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/log/log.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/log/logmirror.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/c150.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c150.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/c161.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c161.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/c171.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c171.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/c230.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c230.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c60.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/c90.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/ca1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/db/seg0/cb1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/db/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/turnier/model/Phase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/model/Phase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../School_stuff/3AHITM/SEW/Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -170,7 +158,10 @@
       <workItem from="1589461611504" duration="5792000" />
       <workItem from="1589795864572" duration="5090000" />
       <workItem from="1589801990733" duration="581000" />
-      <workItem from="1589803300980" duration="832000" />
+      <workItem from="1589803300980" duration="1192000" />
+      <workItem from="1589814606646" duration="973000" />
+      <workItem from="1590347359270" duration="858000" />
+      <workItem from="1590401972841" duration="3508000" />
     </task>
     <task id="LOCAL-00001" summary="renewed .idea-project-config">
       <created>1587823686467</created>
@@ -263,27 +254,31 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="277" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1589486431912" />
-    <state x="624" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1589801518629">
+    <state x="429" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590348050568">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="624" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1589801518629" />
+    <state x="429" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1590348050568" />
+    <state x="624" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1590402381061">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="624" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1590402381061" />
     <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
     <state x="389" y="127" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1589801492498">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="389" y="127" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1368.872@0.0.1368.872" timestamp="1589801492498" />
-    <state x="156" y="0" key="CommitChangelistDialog2" timestamp="1589803512211">
+    <state x="156" y="0" key="CommitChangelistDialog2" timestamp="1589804181621">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="156" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589803512211" />
+    <state x="156" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1589804181621" />
     <state x="76" y="70" width="1094" height="725" key="DiffContextDialog" timestamp="1589803673913">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="76" y="70" width="1094" height="725" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1589803673913" />
-    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1589802546877">
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1590402043910">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1589802546877" />
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1590402043910" />
     <state x="354" y="297" key="Github.CreatePullRequestDialog" timestamp="1589803647128">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -347,6 +342,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="380" y="323" key="git4idea.ui.GitResetDialog/0.0.1368.872@0.0.1368.872" timestamp="1589803621412" />
+    <state x="109" y="11" key="new project wizard" timestamp="1590347490720">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="109" y="11" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1590347490720" />
     <state x="689" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1589480409094">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
