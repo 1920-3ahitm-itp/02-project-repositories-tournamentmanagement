@@ -19,40 +19,124 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c553ed81-7bbc-4570-bd20-b5c794e11003" name="Default Changelist" comment="">
+    <list default="true" id="3acd734f-21e8-48ba-9e58-952198748416" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/MatchRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/PhaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/TeamRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/TournamentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_14_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_14_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_14_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_14_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_14_0_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/db/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/turnier/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turnierverwaltung.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turnierverwaltung.iml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1cP1pqLgC5GQKkAXPp746Obudqe" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b2I2gsjHJjh0p6FXmdvJumR9cc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="derby" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20466596" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.htl.turnier.view.Main" />
       <module name="turnierverwaltung" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="at.htl.turnier.view.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,49 +152,75 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c553ed81-7bbc-4570-bd20-b5c794e11003" name="Default Changelist" comment="" />
-      <created>1590415599190</created>
+      <changelist id="3acd734f-21e8-48ba-9e58-952198748416" name="Default Changelist" comment="" />
+      <created>1587823555918</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590415599190</updated>
-      <workItem from="1590415600613" duration="183000" />
+      <updated>1587823555918</updated>
+      <workItem from="1587823558090" duration="2646000" />
+      <workItem from="1587981755682" duration="324000" />
+      <workItem from="1587982132784" duration="1892000" />
+      <workItem from="1591611692333" duration="71000" />
     </task>
-    <task id="LOCAL-00001" summary="delete db-folder from package database">
-      <created>1590415690979</created>
+    <task id="LOCAL-00001" summary="renewed .idea-project-config">
+      <created>1587823686467</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1590415690979</updated>
+      <updated>1587823686467</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete db-folder from package database" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete db-folder from package database" />
+    <MESSAGE value="renewed .idea-project-config" />
+    <option name="LAST_COMMIT_MESSAGE" value="renewed .idea-project-config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1554" y="397" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590415783108">
+    <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser" timestamp="1587823873407">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1554" y="397" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1590415783108" />
-    <state x="1554" y="471" key="Vcs.Push.Dialog.v2" timestamp="1590415703832">
+    <state x="1168" y="360" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1417@0.23.2560.1417" timestamp="1587823873407" />
+    <state width="1429" height="276" key="GridCell.Tab.0.bottom" timestamp="1587824192837">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="1554" y="471" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1590415703832" />
+    <state width="1429" height="276" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192837" />
+    <state width="1429" height="276" key="GridCell.Tab.0.center" timestamp="1587824192834">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1429" height="276" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192834" />
+    <state width="1429" height="276" key="GridCell.Tab.0.left" timestamp="1587824192832">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1429" height="276" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192832" />
+    <state width="1429" height="276" key="GridCell.Tab.0.right" timestamp="1587824192835">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1429" height="276" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1587824192835" />
+    <state x="639" y="-928" key="SettingsEditor" timestamp="1587982184486">
+      <screen x="7" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="639" y="-928" key="SettingsEditor/0.0.1280.688/7.-1080.1920.1050@7.-1080.1920.1050" timestamp="1587982184486" />
+    <state x="843" y="228" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1587823649687" />
+    <state x="955" y="387" key="Vcs.Push.Dialog.v2" timestamp="1587823694864">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="955" y="387" key="Vcs.Push.Dialog.v2/0.23.2560.1417@0.23.2560.1417" timestamp="1587823694864" />
   </component>
 </project>
